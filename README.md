@@ -18,10 +18,22 @@ FizzBuzz es un ejercicio sencillo pero eficaz para practicar la comprensión de 
 - Para los múltiplos de 5, imprime "Buzz" en lugar del número.
 - Para los múltiplos de ambos 3 y 5, imprime "FizzBuzz".
 
+### Katas
+
+
+<image src="/Pictures/Fotos/001.png" alt="Break points">
+<image src="/Pictures/Fotos/002.png" alt="Debug">
+
+
 ## Ejercicio 2: Tamagotchi
 
 ### Descripción
 
 Este ejercicio simula el comportamiento de un Tamagotchi. El programa debe permitir crear un Tamagotchi y actualizar su estado basado en el tiempo, mostrando su nivel de hambre, sueño y humor.
 
+### Katas
+<image src="/Pictures/Fotos/003.png" alt="Break points">
+<image src="/Pictures/Fotos/004.png" alt="Debug">
 
+
+C:\Users\Manuel\Pictures\Fotos\002.PNG
